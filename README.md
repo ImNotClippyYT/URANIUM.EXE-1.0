@@ -1,2 +1,15 @@
-# URANIUM.EXE-1.0
-A malware I made that is very destructive and can make your OS unbootable (IM NOT RESPONSIBLE FOR DAMAGES)
+  _    _ _____            _   _ _____ _    _ __  __ 
+ | |  | |  __ \     /\   | \ | |_   _| |  | |  \/  |
+ | |  | | |__) |   /  \  |  \| | | | | |  | | \  / |
+ | |  | |  _  /   / /\ \ | . ` | | | | |  | | |\/| |
+ | |__| | | \ \  / ____ \| |\  |_| |_| |__| | |  | |
+  \____/|_|  \_\/_/    \_\_| \_|_____|\____/|_|  |_|
+
+Name:Uranium
+
+Destructive: High
+
+Creator:ImNotClippyYT
+
+This is very dangerous it will destroy this computer by overwriting MBR and blue screening windows
+The Creator is NOT responsible for any damages!
